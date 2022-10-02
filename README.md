@@ -1,5 +1,5 @@
 # artemis
-Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting.
+Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together,
 
 <br>
 
