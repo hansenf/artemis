@@ -9,7 +9,7 @@ For project checklist andd upcoming features please check the [Issues]() or [Pro
 <br>
 
 # Contribution
-For contribution please t check the [CONTRIBUTION PAGE](https://github.com/th3rdctrl/artemis/blob/production/CONTRIBUTION.md)
+For contribution please t check the [CONTRIBUTION page](https://github.com/th3rdctrl/artemis/blob/production/CONTRIBUTION.md)
 
 <br>
 
