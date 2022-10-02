@@ -10,7 +10,7 @@ For project checklist and upcoming features please check the [Issues](https://gi
 Let's gather with awesome community and make the cybersecurity environment better. Please to follow the [COMMUNITY]() guidelines, [JOIN THE TRIBE](https://discord.gg/pqR37nCGgr) or check the [Discussions](https://github.com/th3rdctrl/artemis/discussions).
 
 ### Contribution
-For contribution please t check the [CONTRIBUTION](https://github.com/th3rdctrl/artemis/blob/production/CONTRIBUTION.md) guidelines.
+For contribution please check the [CONTRIBUTION](https://github.com/th3rdctrl/artemis/blob/production/CONTRIBUTION.md) guidelines.
 
 <br>
 
