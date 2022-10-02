@@ -1,4 +1,4 @@
-# artemis
+# Artemis
 [Artemis](https://github.com/th3rdctrl/artemis/) crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together.
 
 <br>
