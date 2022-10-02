@@ -33,7 +33,7 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 
 ### Hacktoberfest
 [ [source](https://hacktoberfest.com/about/) ] All about hacktoberfest <br>
-[ [source](https://hacktoberfest.com/dnate/) ] Support and donationg <br>
+[ [source](https://hacktoberfest.com/dnate/) ] Support and donation <br>
 [ [source](https://discord.gg/hacktoberfest) ] Hacktoberfest community <br>
 
 <br>
