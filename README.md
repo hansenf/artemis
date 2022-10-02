@@ -1,5 +1,5 @@
 # Artemis
-[Artemis](https://github.com/th3rdctrl/artemis/) crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together.
+[Artemis](https://github.com/th3rdctrl/artemis/) crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together. [Artemis](https://github.com/th3rdctrl/artemis/) is part of [th3rdmachine]() project. The [th3rdmachine]() is build to support the [th3rdclass]() as the practice lab and research.
 
 <br>
 
@@ -37,7 +37,3 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 [Artemis](https://github.com/th3rdctrl/artemis/) is under MIT License, please to check out the [LICENSE]().
 
 ![](https://cdn.jsdelivr.net/gh/th3rdctrl/CDN/img/artemis-license.png)
-
-<br>
-
-`th3rdctrl` `th3rdmachine` `th3rdclass` `th3rdproject` `th3rdlab` `th3rdpaper`
