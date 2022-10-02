@@ -4,7 +4,7 @@ Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's 
 <br>
 
 ## Project
-For project checklist andd upcoming features please check the [Issues]() or [Projects](). For the project schema please to open [project schema]().
+For project checklist andd upcoming features please check the [Issues]() or [Projects](). For the project schema please to open [project schema](https://www.figma.com/file/9FsZrTAcMWivvh7jywqucz/artemis-schema?node-id=0%3A1).
 
 <br>
 
