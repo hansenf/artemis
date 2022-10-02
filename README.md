@@ -6,12 +6,8 @@ Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's 
 ## Project
 For project checklist andd upcoming features please check the [Issues](https://github.com/th3rdctrl/artemis/issues) or [Projects](https://github.com/users/th3rdctrl/projects/2). For the project schema please to open [project schema](https://www.figma.com/file/9FsZrTAcMWivvh7jywqucz/artemis-schema?node-id=0%3A1).
 
-<br>
-
 ## Community
 Let's gather with awesome community and make the cybersecurity environment better. Please to follow the community guidelines on [COMMUNITY]() page, [JOIN THE TRIBE](https://discord.gg/pqR37nCGgr).
-
-<br>
 
 ## Contribution
 For contribution please t check the [CONTRIBUTION](https://github.com/th3rdctrl/artemis/blob/production/CONTRIBUTION.md) guidelines.
@@ -27,15 +23,13 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 <br>
 
 ## Good to know
-- [ [source](https://opensource.guide/how-to-contribute) ] How to contribute to open-source
-- [ [source](https://opensource.guide/how-to-contribute/#communicating-effectively) ] Communicating effectively
-
-<br>
+[ [source](https://opensource.guide/how-to-contribute) ] How to contribute to open-source <br>
+[ [source](https://opensource.guide/how-to-contribute/#communicating-effectively) ] Communicating effectively <br>
 
 ## Hacktoberfest
-- [ [source](https://hacktoberfest.com/about/) ] All about hacktoberfest
-- [ [source](https://hacktoberfest.com/dnate/) ] Support and donationg
-- [ [discord](https://discord.gg/hacktoberfest) ] Hacktoberfest community
+[ [source](https://hacktoberfest.com/about/) ] All about hacktoberfest <br>
+[ [source](https://hacktoberfest.com/dnate/) ] Support and donationg <br>
+[ [source](https://discord.gg/hacktoberfest) ] Hacktoberfest community <br>
 
 <br>
 
