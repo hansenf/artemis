@@ -4,7 +4,7 @@ Feel free to make the PRs, only the good PRs will be approved. Please to use the
 
 <br>
 
-### Format
+### Pull Request Title Format
 ```
     
     [ <type> ] messages
