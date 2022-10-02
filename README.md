@@ -1,5 +1,5 @@
 # Artemis
-[Artemis](https://github.com/th3rdctrl/artemis/) crafted to help people do OSINT, Bug Hunting and Threat Hunting. Let's create a better environtment together. [Artemis](https://github.com/th3rdctrl/artemis/) is part of [th3rdmachine]() project. The [th3rdmachine]() is build to support the [th3rdclass]() as the practice lab and research.
+[Artemis](https://github.com/th3rdctrl/artemis/) crafted to help people do OSINT, Bug Hunting and Threat Hunting. Let's create a better environment together. [Artemis](https://github.com/th3rdctrl/artemis/) is part of [th3rdmachine]() project. The [th3rdmachine]() is build to support the [th3rdclass]() as the practice lab and research.
 
 <br>
 
