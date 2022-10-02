@@ -17,3 +17,4 @@ For contribution please t check the [CONTRIBUTION PAGE](https://github.com/th3rd
 # Hacktoberfest
 - All about hacktoberfest, [source](https://hacktoberfest.com/about/)
 - Support and donationg, [source](https://hacktoberfest.com/dnate/)
+- Hacktoberfest community, [discord](https://discord.gg/hacktoberfest)
