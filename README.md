@@ -1,5 +1,5 @@
 # artemis
-Go wild and hunt everything
+Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting.
 
 <br>
 
