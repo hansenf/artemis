@@ -1,5 +1,5 @@
 # artemis
-Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together.
+[Artemis](https://github.com/th3rdctrl/artemis/) crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together.
 
 <br>
 
@@ -34,7 +34,7 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 <br>
 
 ## License
-This repository is under MIT License, please to check out the [LICENSE]().
+[Artemis](https://github.com/th3rdctrl/artemis/) is under MIT License, please to check out the [LICENSE]().
 
 ![](https://cdn.jsdelivr.net/gh/th3rdctrl/CDN/img/artemis-license.png)
 
