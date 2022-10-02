@@ -1,10 +1,10 @@
 # artemis
-Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together,
+Artemis crafted to help people in OSINT, Bug Hunting, and Threat Hunting. Let's create a better environtment together.
 
 <br>
 
 ## Project
-For project checklist andd upcoming features please check the [Issues]() or [Projects]()
+For project checklist andd upcoming features please check the [Issues]() or [Projects](). For the project schema please to open [project schema]().
 
 <br>
 
