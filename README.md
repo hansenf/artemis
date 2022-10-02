@@ -18,6 +18,14 @@ For contribution please t check the [CONTRIBUTION](https://github.com/th3rdctrl/
 
 <br>
 
+## Hall of Fame - Contributor
+Thank a lot to this awesome people to keep and contribute to the project and make a better cybersecurity environment.
+
+## Hall of Fame - Donator
+Thank a lot to this awesome people to help the community fund. All of the community fund will be updated on the discord channel.
+
+<br>
+
 ## Good to know
 - [ [source](https://opensource.guide/how-to-contribute) ] How to contribute to open-source
 - [ [source](https://opensource.guide/how-to-contribute/#communicating-effectively) ] Communicating effectively
