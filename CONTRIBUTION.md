@@ -12,3 +12,5 @@ Open for every pull request, only the good PRs will be approved. Please to use t
 ```
 
 ` [ type ] ` can be fill with ` fix `, ` bug `, ` request `, ` add `, ` remove `, ` optimize `.
+
+DO NOT ADD THE PROJECT ON PULL REQUEST SECTION
