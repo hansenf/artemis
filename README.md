@@ -9,12 +9,12 @@ For contribution please t check the [CONTRIBUTION PAGE](https://github.com/th3rd
 <br>
 
 # Good to know
-- How to contribute to open-source, [source](https://opensource.guide/how-to-contribute)
-- Communicating effectively, [source](https://opensource.guide/how-to-contribute/#communicating-effectively)
+- [ [source](https://opensource.guide/how-to-contribute) ]How to contribute to open-source
+- [ [source](https://opensource.guide/how-to-contribute/#communicating-effectively) ] Communicating effectively
 
 <br>
 
 # Hacktoberfest
-- All about hacktoberfest, [source](https://hacktoberfest.com/about/)
-- Support and donationg, [source](https://hacktoberfest.com/dnate/)
-- Hacktoberfest community, [discord](https://discord.gg/hacktoberfest)
+- [ [source](https://hacktoberfest.com/about/) ] All about hacktoberfest
+- [ [source](https://hacktoberfest.com/dnate/) ] Support and donationg
+- [ [discord](https://discord.gg/hacktoberfest) ] Hacktoberfest community
