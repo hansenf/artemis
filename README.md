@@ -3,22 +3,29 @@
 
 <br>
 
-## Project
+<br>
+
+### Project
 For project checklist andd upcoming features please check the [Issues](https://github.com/th3rdctrl/artemis/issues) or [Projects](https://github.com/users/th3rdctrl/projects/2). For the project schema please to open [project schema](https://www.figma.com/file/9FsZrTAcMWivvh7jywqucz/artemis-schema?node-id=0%3A1).
 
-## Community
+### Community
 Let's gather with awesome community and make the cybersecurity environment better. Please to follow the community guidelines on [COMMUNITY]() page, [JOIN THE TRIBE](https://discord.gg/pqR37nCGgr).
 
-## Contribution
+### Contribution
 For contribution please t check the [CONTRIBUTION](https://github.com/th3rdctrl/artemis/blob/production/CONTRIBUTION.md) guidelines.
 
 <br>
 
-## Hall of Fame - Contributor
+<br>
+
+# Hall of Fame
+### The Contributor
 Thank a lot to this awesome people to keep and contribute to the project and make a better cybersecurity environment.
 
-## Hall of Fame - Donator
+### The Donator
 Thank a lot to this awesome people to help the community fund. All of the community fund will be updated on the discord channel.
+
+<br>
 
 <br>
 
@@ -33,7 +40,9 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 
 <br>
 
-## License
+<br>
+
+# License
 [Artemis](https://github.com/th3rdctrl/artemis/) is under MIT License, please to check out the [LICENSE]().
 
 ![](https://cdn.jsdelivr.net/gh/th3rdctrl/CDN/img/artemis-license.png)
