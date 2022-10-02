@@ -36,3 +36,7 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 - [ [source](https://hacktoberfest.com/about/) ] All about hacktoberfest
 - [ [source](https://hacktoberfest.com/dnate/) ] Support and donationg
 - [ [discord](https://discord.gg/hacktoberfest) ] Hacktoberfest community
+
+<br>
+
+`th3rdctrl` `th3rdmachine` `th3rdclass` `th3rdproject` `th3rdlab` `th3rdpaper`
