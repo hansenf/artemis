@@ -19,7 +19,7 @@ For contribution please t check the [CONTRIBUTION](https://github.com/th3rdctrl/
 <br>
 
 ## Good to know
-- [ [source](https://opensource.guide/how-to-contribute) ]How to contribute to open-source
+- [ [source](https://opensource.guide/how-to-contribute) ] How to contribute to open-source
 - [ [source](https://opensource.guide/how-to-contribute/#communicating-effectively) ] Communicating effectively
 
 <br>
