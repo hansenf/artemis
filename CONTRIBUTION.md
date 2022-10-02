@@ -2,6 +2,8 @@
 
 Open for every pull request, only the good PRs will be approved. Please to use the format below when do PRs, thank you!
 
+<br>
+
 ### Format
 ```
     
@@ -12,5 +14,7 @@ Open for every pull request, only the good PRs will be approved. Please to use t
 ```
 
 ` [ type ] ` can be fill with ` fix `, ` bug `, ` request `, ` add `, ` remove `, ` optimize `.
+
+<br>
 
 DO NOT ADD THE PROJECT ON PULL REQUEST SECTION
