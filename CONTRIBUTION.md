@@ -1,6 +1,6 @@
 # Contribution
 
-Open for every pull request, only the good PRs will be approved. Please to use the format below when do PRs, thank you!
+Feel free to make the PRs, only the good PRs will be approved. Please to use the format below when do PRs, thank you!
 
 <br>
 
