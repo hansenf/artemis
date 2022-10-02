@@ -21,7 +21,7 @@ For contribution please check the [CONTRIBUTION](https://github.com/th3rdctrl/ar
 Thank a lot to this awesome people to keep and contribute to the project and make a better cybersecurity environment.
 
 ### The Donator
-Thank a lot to this awesome people to help the community fund. All of the community fund will be updated on the discord channel.
+Thank a lot to this awesome people to help the community fund. All of the community fund will be updated on the Discord channel.
 
 <br>
 
