@@ -43,6 +43,6 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 <br>
 
 # License
-[Artemis](https://github.com/th3rdctrl/artemis/) is under MIT License, please to check out the [LICENSE](https://github.com/th3rdctrl/artemis/LICENSE).
+[Artemis](https://github.com/th3rdctrl/artemis/) is under MIT License, please to check out the [LICENSE](https://github.com/th3rdctrl/artemis/blob/development/LICENSE).
 
 ![](https://cdn.jsdelivr.net/gh/th3rdctrl/CDN/img/artemis-license.png)
