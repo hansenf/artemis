@@ -39,4 +39,11 @@ Thank a lot to this awesome people to help the community fund. All of the commun
 
 <br>
 
+## License
+This repository is under MIT License, please to check out the [LICENSE]().
+
+![](https://cdn.jsdelivr.net/gh/th3rdctrl/CDN/img/artemis-license.png)
+
+<br>
+
 `th3rdctrl` `th3rdmachine` `th3rdclass` `th3rdproject` `th3rdlab` `th3rdpaper`
