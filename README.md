@@ -9,8 +9,8 @@ For contribution please t check the [CONTRIBUTION PAGE](https://github.com/th3rd
 <br>
 
 # Good to know
-- How to contribute to open-source, [link](https://opensource.guide/how-to-contribute)
-- Communicating effectively, [link](https://opensource.guide/how-to-contribute/#communicating-effectively)
+- How to contribute to open-source, [source](https://opensource.guide/how-to-contribute)
+- Communicating effectively, [source](https://opensource.guide/how-to-contribute/#communicating-effectively)
 
 <br>
 
