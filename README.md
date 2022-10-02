@@ -4,7 +4,7 @@
 <br>
 
 ### Project
-For project checklist andd upcoming features please check the [Issues](https://github.com/th3rdctrl/artemis/issues) or [Projects](https://github.com/users/th3rdctrl/projects/2). For the project schema please to open [project schema](https://www.figma.com/file/9FsZrTAcMWivvh7jywqucz/artemis-schema?node-id=0%3A1).
+For project checklist and upcoming features please check the [Issues](https://github.com/th3rdctrl/artemis/issues) or [Projects](https://github.com/users/th3rdctrl/projects/2). For the project schema please to open [project schema](https://www.figma.com/file/9FsZrTAcMWivvh7jywqucz/artemis-schema?node-id=0%3A1).
 
 ### Community
 Let's gather with awesome community and make the cybersecurity environment better. Please to follow the [COMMUNITY]() guidelines, [JOIN THE TRIBE](https://discord.gg/pqR37nCGgr) or check the [Discussions](https://github.com/th3rdctrl/artemis/discussions).
