@@ -25,4 +25,4 @@ Feel free to make the PRs, only the good PRs will be approved. Please to use the
 
 <br>
 
-DO NOT ADD THE PROJECT ON PULL REQUEST SECTION
+**Reference :** http://karma-runner.github.io/6.4/dev/git-commit-msg.html
