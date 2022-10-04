@@ -163,7 +163,7 @@ if args.limit:
 		json_object = json.dumps(data, indent=4)
 		handle.write(json_object)
 
-if args.dbInfo:
+if args.dbinfo:
 	data = dbInfo()
 	written = exists(filename)
 	with open(filename,'a') as handle:
