@@ -21,6 +21,11 @@ For contribution please check the [CONTRIBUTION](https://github.com/th3rdctrl/ar
 Thank a lot to this awesome people to keep and contribute to the project and make a better cybersecurity environment.
 
 <div>
+<a href="https://github.com/th3rdctrl">
+<img src="https://avatars.githubusercontent.com/u/92368496?s=64&v=4" height=32 style="border-radius: 128px;">
+</a>
+&nbsp;
+<div>
 <a href="https://github.com/Ananthavijay">
 <img src="https://avatars.githubusercontent.com/u/35162705?s=64&v=4" height=32 style="border-radius: 128px;">
 </a>
