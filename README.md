@@ -20,6 +20,19 @@ For contribution please check the [CONTRIBUTION](https://github.com/th3rdctrl/ar
 ### The Contributor
 Thank a lot to this awesome people to keep and contribute to the project and make a better cybersecurity environment.
 
+<div>
+<a href="https://github.com/Ananthavijay">
+<img src="https://avatars.githubusercontent.com/u/35162705?s=64&v=4" height=32 style="border-radius: 128px;">
+</a>
+&nbsp;
+<a href="https://github.com/solidevil14">
+<img src="https://avatars.githubusercontent.com/u/63005199?s=64&v=4" height=32 style="border-radius: 128px;">
+</a>
+&nbsp;
+</div>
+
+<br>
+
 ### The Donator
 Thank a lot to this awesome people to help the community fund. All of the community fund will be updated on the Discord channel.
 
